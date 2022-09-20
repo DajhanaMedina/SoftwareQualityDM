@@ -1,0 +1,22 @@
+{
+  "name": "softwarequalitydm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DajhanaMedina/SoftwareQualityDM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DajhanaMedina/SoftwareQualityDM/issues"
+  },
+  "homepage": "https://github.com/DajhanaMedina/SoftwareQualityDM#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
